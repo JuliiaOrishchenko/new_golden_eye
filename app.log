@@ -1,0 +1,25 @@
+2023-05-01 23:12:16,038 [INFO] - TestApi:Started update for: 840=>980
+2023-05-01 23:12:16,039 [DEBUG] - TestApi:rate before: XRate(840=>980): 1.0
+2023-05-01 23:12:16,042 [DEBUG] - TestApi:rate after: XRate(840=>980): 1.01
+2023-05-01 23:12:16,042 [INFO] - TestApi:Finished update for: 840=>980
+2023-05-01 23:14:07,595 [INFO] - TestApi:Started update for: 840=>980
+2023-05-01 23:14:07,599 [INFO] - TestApi:Finished update for: 840=>980
+2023-05-01 23:40:28,616 [INFO] - TestApi:Started update for: 840=>980
+2023-05-01 23:40:28,617 [DEBUG] - TestApi:rate before: XRate(840=>980): 1.0
+2023-05-01 23:40:28,620 [DEBUG] - TestApi:rate after: XRate(840=>980): 1.01
+2023-05-01 23:40:28,620 [INFO] - TestApi:Finished update for: 840=>980
+2023-05-01 23:40:28,635 [INFO] - PrivatApi:Started update for: 840=>980
+2023-05-01 23:40:28,635 [DEBUG] - PrivatApi:rate before: XRate(840=>980): 1.0
+2023-05-01 23:41:09,576 [INFO] - TestApi:Started update for: 840=>980
+2023-05-01 23:41:09,577 [DEBUG] - TestApi:rate before: XRate(840=>980): 1.0
+2023-05-01 23:41:09,580 [DEBUG] - TestApi:rate after: XRate(840=>980): 1.01
+2023-05-01 23:41:09,580 [INFO] - TestApi:Finished update for: 840=>980
+2023-05-01 23:41:32,599 [INFO] - TestApi:Started update for: 840=>980
+2023-05-01 23:41:32,600 [DEBUG] - TestApi:rate before: XRate(840=>980): 1.0
+2023-05-01 23:41:32,603 [DEBUG] - TestApi:rate after: XRate(840=>980): 1.01
+2023-05-01 23:41:32,603 [INFO] - TestApi:Finished update for: 840=>980
+2023-05-01 23:41:32,618 [INFO] - PrivatApi:Started update for: 840=>980
+2023-05-01 23:41:32,618 [DEBUG] - PrivatApi:rate before: XRate(840=>980): 1.0
+2023-05-01 23:41:32,896 [DEBUG] - PrivatApi:Privat response: [{'ccy': 'EUR', 'base_ccy': 'UAH', 'buy': '40.13220', 'sale': '41.84100'}, {'ccy': 'USD', 'base_ccy': 'UAH', 'buy': '36.56860', 'sale': '37.45318'}]
+2023-05-01 23:41:32,900 [DEBUG] - PrivatApi:rate after: XRate(840=>980): 37.45318
+2023-05-01 23:41:32,901 [INFO] - PrivatApi:Finished update for: 840=>980
